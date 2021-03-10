@@ -1,0 +1,5 @@
+Python == 3.7
+Tensorflow-keras
+Numpy
+cv2
+scipy
